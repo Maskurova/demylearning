@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.tests.auth.negative.AuthTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.594 s - in tests.tests.auth.negative.AuthTest

@@ -1,0 +1,10 @@
+constants\Constant$Urls.class
+constants\Constant.class
+pages\pages\auth\Auth.class
+pages\base\BasePage.class
+common\CommonActions.class
+constants\Constant$TimeoutVeriables.class
+common\Config.class
+pages\pages\basket\Basket.class
+constants\Constant$AuthTestDataInvalid.class
+constants\Constant$AuthTestData.class
